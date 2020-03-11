@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConwayGameOfLifeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-11T08:32:58" hostname="Thabiles-MacBook-Air.local" time="0.03">
+  <properties/>
+  <testcase name="nextGeneration()" classname="ConwayGameOfLifeTest" time="0.03"/>
+  <system-out><![CDATA[Next Generation
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
